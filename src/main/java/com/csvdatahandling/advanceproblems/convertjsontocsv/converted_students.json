@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Dhani",
+        "id": "101",
+        "marks": "85",
+        "age": "20"
+    },
+    {
+        "name": "Shruti",
+        "id": "102",
+        "marks": "78",
+        "age": "21"
+    },
+    {
+        "name": "Kanchan",
+        "id": "103",
+        "marks": "92",
+        "age": "22"
+    },
+    {
+        "name": "Vedav",
+        "id": "104",
+        "marks": "88",
+        "age": "23"
+    },
+    {
+        "name": "Unnati",
+        "id": "105",
+        "marks": "79",
+        "age": "20"
+    }
+]

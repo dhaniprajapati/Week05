@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Dhani Kapoor",
+    "email": "dhani.kapoor@gmail.com",
+    "age": 27,
+    "city": "Jaipur"
+  },
+  {
+    "name": "Shruti Mehta",
+    "email": "shruti.mehta@gmail.com",
+    "age": 24,
+    "city": "Pune"
+  },
+  {
+    "name": "Prince Yadav",
+    "email": "prince.yadav@gmail.com",
+    "age": 29,
+    "city": "Lucknow"
+  },
+  {
+    "name": "Vagisha Singh",
+    "email": "vagisha.singh@gmail.com",
+    "age": 26,
+    "city": "Bhopal"
+  }
+]
